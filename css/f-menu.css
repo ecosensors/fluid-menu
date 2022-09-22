@@ -232,8 +232,8 @@ MENU
 
 
 #f-menu-vertical nav.menu ul li div a:nth-of-type(1){
-	background-color: red;
 	white-space: nowrap;
+	/*background-color: red;*/
 }
 
 #f-menu-vertical nav.menu ul li.hasChildren div a:nth-of-type(1){
@@ -246,12 +246,16 @@ MENU
 #f-menu-vertical nav.menu ul li.hasChildren div a:nth-of-type(2){
 	flex:  0 1 30px;
 	text-align: right;
+	/*
 	background-color: orange;
 	border: 1px solid blue;
+	*/
 }
+/*
 #f-menu-vertical nav.menu ul li.hasChildren div a:nth-of-type(2) i{
 	border: 1px solid white;
 }
+*/
 
 #f-menu-vertical nav.menu ul li div a:first-of-type{
 	flex:  1 1 auto;
