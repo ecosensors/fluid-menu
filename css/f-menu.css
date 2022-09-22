@@ -44,6 +44,7 @@ a[aria-expanded="false"]{
 	#f-menu-vertical nav.menu{
 		width: 230px;
 		transition: width .5s ease;
+		overflow: hidden;
 	}
 
 	#f-menu-vertical nav.menu.hide{
