@@ -116,7 +116,7 @@ CSS
     flex: 1 1 auto;
 }
 ```
-Read more the [CSS file](https://github.com/ecosensors/f-menu/blob/main/css/f-menu.css) and the media queries section.
+Read more the [CSS file](https://github.com/ecosensors/fluid-menu/blob/main/css/f-menu.css) and the media queries section.
 
 
 ### Notes
