@@ -208,7 +208,7 @@ The CSS classes bellow, will help you the change the background colors of the me
 Colors of the menu
 */
 
-/* Backgriond */
+/* Background */
 #f-menu-horizontal .menu,
 #f-menu-horizontal .hamburger,
 #f-menu-vertical .menu{
