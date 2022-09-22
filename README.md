@@ -205,7 +205,7 @@ The CSS classes bellow, will help you the change the background colors of the me
 
 ```
 /*
-Colors of the menu
+Background colors of the menu
 */
 
 /* Background */
