@@ -1,6 +1,6 @@
 # FLUID MENU
 
-FLUID MENU allows how to have either a responsive horizontal menu or vertical menu. Improvement will come later.
+FLUID MENU is a CSS Flexbox horizontal or vertical responsive mneu.
 
 FLUID MENU IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND...
 
