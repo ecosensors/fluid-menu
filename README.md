@@ -182,8 +182,8 @@ Read more the [CSS file](https://github.com/ecosensors/fluid-menu/blob/main/css/
                                         <div>
                                             <a href="#">Association</a>
                                         </div>
-                                    </li class="level-4">
-                                    <li>
+                                    </li>
+                                    <li class="level-4">
                                         <div>
                                             <a href="#">Fundation</a>
                                         </div>
