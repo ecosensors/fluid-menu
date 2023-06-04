@@ -1,5 +1,5 @@
 # FLUID MENU
-
+cocuo
 FLUID MENU is a CSS Flexbox horizontal or vertical responsive mneu.
 
 FLUID MENU IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND...
@@ -63,7 +63,7 @@ Feel free to propose some modification or improvement suggestion.
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    
+
     <title>Menu with Felxbox</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -74,7 +74,7 @@ Feel free to propose some modification or improvement suggestion.
     <header>
         <h1>Demo Flex menu</h1>
     </header>
-    <div class="container container-vertical"> 
+    <div class="container container-vertical">
         <aside>
             <div id="f-menu-vertical">
                 <nav class="vhamburger">
