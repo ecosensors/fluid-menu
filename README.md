@@ -1,7 +1,7 @@
 # FLUID MENU
 FLUID MENU is a CSS Flexbox horizontal or vertical responsive mneu.
 
-FLUID MENU IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND... .
+FLUID MENU IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND...
 
 Feel free to propose some modification or improvement suggestion.
 
