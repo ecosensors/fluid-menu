@@ -5,8 +5,8 @@ $(document).ready(function(){
 
 	init_menu();
 
-		/*
-	* 	After the click on the hamburger, show hor hide the element which are out of the container frame
+	/*
+	* 	After a click on the hamburger, it shows or hide the element which are out of the container frame
 	*/
 	if(('#f-menu-horizontal nav.hamburger a.dropdown-toggle' ).length){
 
